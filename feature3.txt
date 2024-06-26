@@ -1,1 +1,3 @@
 3rd file
+
+This file gives the third file for feature.
