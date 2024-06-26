@@ -1,11 +1,11 @@
 This is my First file in my First Git Repository.
 
 
-<<<<<<< HEAD
+
 This is example to Stimulate merge conflict 
 
 This is an Extra content for commit on Master Branch
-=======
+
 This is example to Stimulate merge conflict
 
 
@@ -16,4 +16,4 @@ This is new monnit for conflict from Merger_conflict branch
 
 
 Also adding the file name. ReadMe
->>>>>>> merge_conflict
+
