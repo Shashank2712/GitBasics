@@ -1,1 +1,2 @@
 2nd feature file to check stashing
+simple features added

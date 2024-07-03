@@ -1,1 +1,2 @@
 This is the file from feature-branch deleted.
+first feature added.
