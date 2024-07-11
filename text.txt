@@ -1,10 +1,4 @@
 this is the test file containing the numbers and the texts.
 
 
-hqsvcuqshxk
-
-
-
-
-
-
+Testing merge conflicts
