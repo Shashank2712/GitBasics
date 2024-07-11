@@ -1,2 +1,6 @@
 to check stashing
+<<<<<<< HEAD
 check merge conflict
+=======
+stask file to test rebasing
+>>>>>>> feature1

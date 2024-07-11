@@ -1,3 +1,7 @@
 This is the file created from the CLI.
 This is the sample file.
+<<<<<<< HEAD
 This is test file for git rebase
+=======
+This is reabse testing.
+>>>>>>> feature1
